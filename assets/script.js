@@ -138,3 +138,5 @@ $(document).ready(function() {
     });
 
 }); // END ON READY START FUNCTION
+
+//SPENT OVER AN HOUR TRYING TO GET THIS APP TO WORK FROM MY REPO `HTTP vs HTTPS`, UGH, WHAT A LOSER!!!
